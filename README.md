@@ -25,7 +25,7 @@ del testo costruita attraverso l’uso dei word embedding
   validation condotto sul training set.
 - valutazione sul test set ufficiale del miglior sistema rispetto ai risultati ottenuti con il
   processo di 5-fold cross validation del punto sopra.
-1. Dopo aver scelto un Neural Language Model tra quelli visti a lezione, condurre un processo
+4. Dopo aver scelto un Neural Language Model tra quelli visti a lezione, condurre un processo
 di fine-tuning per 5 epoche. Riportare i seguenti risultati:
 - riportare le curve di loss di training e di validation;
 - per ogni epoca valutare il sistema sul validation set;
